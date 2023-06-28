@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BayesCACE"]
 	path = BayesCACE
 	url = https://github.com/cran/BayesCACE
-	shallow = true
-	registered = true
 [submodule "BayesSenMC"]
 	path = BayesSenMC
 	url = https://github.com/formidify/bayessenmc
-	shallow = true
-	registered = true
